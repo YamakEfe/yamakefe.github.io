@@ -143,3 +143,6 @@ a:hover{text-decoration: underline}
   margin-bottom:10px;
   cursor:pointer;
 }
+.section h3{
+  margin-top:20px;
+}
